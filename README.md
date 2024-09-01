@@ -6,7 +6,7 @@ The official firmware of Orange Pi 5 Plus 32G version all has design defects, wh
   * Random restart ✅
   * Program randomly crashes ✅
   * External input is invalid ✅
-  * Crash after hibernation ❌
+  * Crash after suspend entry (deep) ❌ (Install [Magisk module](https://github.com/shiyunjin/Magisk-Android-Wake-Lock) to disable deep sleep)
   * ADB missing link library ✅
 
 ## Guide
